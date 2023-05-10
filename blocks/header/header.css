@@ -6,6 +6,10 @@ header .nav-wrapper {
   position: fixed;
 }
 
+main .hero h1 {
+  color: #1640b0!important;
+}
+
 header nav {
   box-sizing: border-box;
   display: grid;
