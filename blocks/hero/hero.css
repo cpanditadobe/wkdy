@@ -1,5 +1,7 @@
 /* block specific CSS goes here */
 
+
+
 main .hero-container > div {
   max-width: unset;
 }
@@ -16,9 +18,16 @@ main .hero {
 
 main .hero h1 {
   max-width: 1200px;
-  margin-left: auto;
+  /*margin-left: auto;*/
   margin-right: auto;
-  color: white;
+  color: #1640b0;
+}
+
+main .hero h2 {
+  max-width: 1200px;
+  /*margin-left: auto;*/
+  margin-right: auto;
+  color: #b0167d;
 }
 
 main .hero picture {
