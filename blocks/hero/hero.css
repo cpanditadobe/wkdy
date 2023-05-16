@@ -13,7 +13,7 @@ main .hero-container {
 main .hero {
   position: static;
   padding: 175px;
-  min-height: 300px;
+  min-height: 500px;
 }
 
 main .hero h1 {
@@ -21,6 +21,7 @@ main .hero h1 {
   /*margin-left: auto;*/
   margin-right: auto;
   color: #1640b0;
+  display: none;
 }
 
 main .hero h2 {
