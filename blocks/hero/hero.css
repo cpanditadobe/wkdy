@@ -13,7 +13,7 @@ main .hero-container {
 main .hero {
   position: static;
   padding: 175px;
-  min-height: 500px;
+  min-height: 450px;
 }
 
 main .hero h1 {
