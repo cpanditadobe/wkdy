@@ -26,7 +26,8 @@ main .hero h1 {
 
 main .hero h2 {
   max-width: 1200px;
-  /*margin-left: auto;*/
+  margin-left: 45%;
+  margin-top: 6em;
   margin-right: auto;
   color: #b0167d;
 }
